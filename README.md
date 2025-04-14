@@ -4,4 +4,4 @@
 - Реализован с использованием HTML, CSS и JavaScript
 - Адаптивная верстка для удобного просмотра на разных устройствах
 
-Посмотреть проект можно здесь: [dior](https://harugrid.github.io/dior/)
+Посмотреть сайт можно здесь: [dior](https://harugrid.github.io/dior/)
